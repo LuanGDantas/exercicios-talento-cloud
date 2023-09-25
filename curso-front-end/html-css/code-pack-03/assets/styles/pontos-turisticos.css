@@ -1,0 +1,9 @@
+#list-pontos li {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+#list-pontos li img{
+  margin: 1rem;
+}

@@ -1,0 +1,25 @@
+#list-indices li a {
+  color: black;
+}
+
+main li {
+  margin: .5rem 0;
+}
+
+main ul, ol {
+  padding-left: 2rem;
+}
+
+#list-fotos {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  justify-items: center;
+  justify-content: space-around;
+  align-items: center;
+}
+
+#list-fotos img {
+  margin: 1rem 0;
+  max-width: 25rem;
+  height: auto;
+}
