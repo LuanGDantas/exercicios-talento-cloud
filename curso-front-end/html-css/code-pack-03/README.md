@@ -1,4 +1,4 @@
-# Code Pack 3
+# Code Pack HTML/CSS - Página Marco Zero
 
 ## INSTRUÇÕES DO PROJETO
 
@@ -18,4 +18,11 @@ Com a página sobre o Marco Zero feita, é necessário de uma outra página e de
 
  1. crie um link que irá direcionar para essa nova página; 
  2. adicione imagens sobre os lugares.
- 
+
+### PARTE 3
+
+Agora que já aprendeu as propriedades básicas da CSS, é possível aprimorar a atividade anterior aplicando estilos para a página que você já criou.
+
+### PARTE 4
+
+Pratique com o jogo Flexbox Froggy e aplique as propriedades flex box na página que você criou.
